@@ -512,7 +512,7 @@ def command_init(parts):
             "y": point_coords[point][1],
             "route": [],
             "route_index": 0,
-            "speed": 10.0,
+            "speed": 8.0,
             "current_node": point,
             "last_angle": 0
         }
@@ -539,7 +539,7 @@ def command_init(parts):
             "y": point_coords[point][1],
             "route": [],
             "route_index": 0,
-            "speed": 5.0,
+            "speed": 6.0,
             "current_node": point,
             "last_angle": 0
         }
